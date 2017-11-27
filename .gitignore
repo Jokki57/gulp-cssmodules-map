@@ -2,7 +2,7 @@
 node_modules
 *.log*
 *.zip
-/.idea
+.idea
 .gitattributes
 .cache-loader
 /.vscode
