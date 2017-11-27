@@ -1,0 +1,33 @@
+{
+  "name": "gulp-cssmodules-map",
+  "version": "0.0.1",
+  "description": "Gulp plugin for creating map file with css modules, that can be used directly in you trinspiled code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulpplugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jokki57/gulp-cssmodules-map"
+  },
+  "author": "Jurij Zakharchuk",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "eslint": "^4.12.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "async": "^2.0.0-rc.5",
+    "gulp-util": "^3.0.7",
+    "lodash": "^4.13.1",
+    "postcss": "^5.0.21",
+    "postcss-modules": "^0.5.0",
+    "through2": "^2.0.1",
+    "vinyl": "^1.1.1"
+  }
+}

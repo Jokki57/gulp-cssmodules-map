@@ -1,0 +1,8 @@
+.DS_STORE
+node_modules
+*.log*
+*.zip
+/.idea
+.gitattributes
+.cache-loader
+/.vscode
